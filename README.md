@@ -4,5 +4,4 @@ First Flutter Project
 
 ## Final Product
 
-![MI Card](images/mi_card.png)
-
+<img src="images/mi_card.pmg" alt="mi card" width="400"/>
